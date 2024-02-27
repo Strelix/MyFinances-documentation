@@ -13,7 +13,7 @@
             <li>
                 <procedure title="Manually copy over the contents." collapsible="true" default-state="collapsed">
                     <step>
-                        Go into `.env.sample`, press `CTRL + A`, then `CTRL + C`
+                        Go into <path>.env.sample</path>, press <shortcut>CTRL + A</shortcut>, then <shortcut>CTRL + C</shortcut>
                         <chapter title="View help image" collapsible="true">
                             <img src="copy-sample-env" border-effect="rounded">
                         </chapter>

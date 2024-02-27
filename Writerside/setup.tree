@@ -10,5 +10,6 @@
     <toc-element topic="Setup-with-PyCharm.md">
         <toc-element topic="Clone-the-project.md"/>
         <toc-element topic="Setup-environment-variables.md"/>
+        <toc-element topic="Setup-Django.md"/>
     </toc-element>
 </instance-profile>
