@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="6d232318">
+        <description>Created after removal of "Where are things?" from Instance Name</description>
+        <accepts>WHERE_ARE_THINGS.html</accepts>
+    </rule>
+    <rule id="3e6b26e1">
+        <description>Created after removal of "Checklist" from Instance Name</description>
+        <accepts>pull_request_template.html</accepts>
+    </rule>
+    <rule id="2d68c676">
+        <description>Created after removal of ""[Feature]" from Instance Name</description>
+        <accepts>feature.html</accepts>
+    </rule>
+    <rule id="29b922b5">
+        <description>Created after removal of ""[IDEA]" from Instance Name</description>
+        <accepts>feature-request.html</accepts>
+    </rule>
+    <rule id="4a2bcbe8">
+        <description>Created after removal of ""[Enhance]" from Instance Name</description>
+        <accepts>enhance.html</accepts>
+    </rule>
+    <rule id="48bb905">
+        <description>Created after removal of ""[BUG]" from Instance Name</description>
+        <accepts>bug-report.html</accepts>
+    </rule>
+    <rule id="733413d">
+        <description>Created after removal of "Social Login" from Instance Name</description>
+        <accepts>social_login.html</accepts>
+    </rule>
+    <rule id="4c99cab9">
+        <description><![CDATA[Created after removal of "<SETUP.md>" from Instance Name]]></description>
+        <accepts>SETUP.html</accepts>
+    </rule>
+    <rule id="748e9cf">
+        <description><![CDATA[Created after removal of "<documentation_README.md>" from Instance Name]]></description>
+        <accepts>documentation_README.html</accepts>
+    </rule>
+    <rule id="7678c337">
+        <description><![CDATA[Created after removal of "<markdown.md>" from Instance Name]]></description>
+        <accepts>markdown.html</accepts>
+    </rule>
+    <rule id="32bba514">
+        <description><![CDATA[Created after removal of "<0.1.0_README.md>" from Instance Name]]></description>
+        <accepts>0.1.0_README.html</accepts>
+    </rule>
+    <rule id="53397b56">
+        <description><![CDATA[Created after removal of "<README.md>" from Instance Name]]></description>
+        <accepts>README.html</accepts>
+    </rule>
+</rules>
