@@ -5,28 +5,29 @@ Welcome to MyFinances, this guide will help you get setup and running this appli
 Here's a brief logical set of steps to get setup:
 
 <snippet id="setup-structure">
-<list type="decimal">
-    <li>
-        **Clone** the project
-    </li>
-    <li>
-        Setup some **environment variables**
-    </li>
-    <li>
-        Setup **Django** (our backend)
-    </li>
-    <li>
-        Setup a **database**
-    </li>
-    <li>
-        Setup **Tailwind** (our frontend css library)
-    </li>
-    <li>
-        **Run the project**!
-    </li>
-</list>
-
-
+    <list type="decimal">
+        <li>
+            **Clone** the project
+        </li>
+        <li>
+            Setup some **environment variables**
+        </li>
+        <li>
+            Setup a **database**
+        </li>
+        <li>
+            Setup **Django** (our backend)
+        </li>
+        <li>
+            Setup a **database**
+        </li>
+        <li>
+            Setup **Tailwind** (our frontend css library)
+        </li>
+        <li>
+            **Run the project**!
+        </li>
+    </list>
 </snippet>
 
 <note>
