@@ -125,7 +125,7 @@
                     DATABASE_PASS=
                 </code-block>
                 <deflist collapsible="true" default-state="collapsed" type="wide">
-                    <include from="other-Setup-a-database.md" element-id="db-host"></include>
+                    <include from="other-Setup-a-database.md" element-id="db-host"/>
                     <def title="DATABASE_PORT">
                         Each database will have a port. Typically, Postgres by default uses port <control>5432</control>
                         If you have changed the port, put the number here. <emphasis>Examples</emphasis> are below:
@@ -134,8 +134,8 @@
                             <li>1234</li>
                         </list>
                     </def>
-                    <include from="other-Setup-a-database.md" element-id="db-name"></include>
-                    <include from="other-Setup-a-database.md" element-id="db-user"></include>
+                    <include from="other-Setup-a-database.md" element-id="db-name"/>
+                    <include from="other-Setup-a-database.md" element-id="db-user"/>
                 </deflist>
                 <tip>
                     More information can be found on environment variables

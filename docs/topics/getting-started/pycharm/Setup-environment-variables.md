@@ -15,7 +15,7 @@
                     <step>
                         Go into <path>.env.sample</path>, press <shortcut>CTRL + A</shortcut>, then <shortcut>CTRL + C</shortcut>
                         <chapter title="View help image" collapsible="true">
-                            <img src="copy-sample-env" border-effect="rounded">
+                            <img src="copy-sample-env.png" border-effect="rounded">
                         </chapter>
                     </step>
                     <step>

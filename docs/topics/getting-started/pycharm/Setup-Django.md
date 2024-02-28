@@ -9,7 +9,7 @@ After that you can configure the project variables, and run the app!
             <step>
                 Go into `Settings`
                  <procedure title="View help image" collapsible="true">
-                    <img src="dropdown-choose-settings"  border-effect="rounded">
+                    <img src="dropdown-choose-settings.png"  border-effect="rounded">
                 </procedure>
             </step>
         </procedure>
@@ -22,7 +22,7 @@ After that you can configure the project variables, and run the app!
             <step>
                 Go into <path>Python Interpreter</path>
                 <procedure title="View help image" collapsible="true">
-                    <img src="python-interpreter-dropdown"  border-effect="rounded">
+                    <img src="python-interpreter-dropdown.png"  border-effect="rounded">
                 </procedure>
             </step>
             <step>
@@ -31,7 +31,7 @@ After that you can configure the project variables, and run the app!
                     Add Interpreter | Add Local Interpreter
                 </ui-path>
                 <procedure title="View help image" collapsible="true">
-                    <img src="add-local-interpreter"  border-effect="rounded">
+                    <img src="add-local-interpreter.png"  border-effect="rounded">
                 </procedure>
             </step>
             <step>
