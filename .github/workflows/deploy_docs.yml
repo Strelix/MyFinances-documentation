@@ -10,7 +10,7 @@ permissions:
   pages: write
 
 env:
-  INSTANCE: docs/getting-started
+  INSTANCE: docs/myfinances
   ARTIFACT: webHelpHI2-all.zip
   DOCKER_VERSION: 233.14389
 

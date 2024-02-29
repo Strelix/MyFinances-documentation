@@ -2,8 +2,9 @@
 <!DOCTYPE instance-profile
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
-<instance-profile id="getting-started"
-                  name="Getting Started" start-page="getting-setup.md">
+<instance-profile id="myfinances"
+                 name="MyFinances"
+                 start-page="contributing.md">
     <toc-element topic="getting-setup.md">
         <toc-element topic="Setup-with-PyCharm.md">
             <toc-element topic="Clone-the-project.md"/>
@@ -21,4 +22,6 @@
         </toc-element>
         <toc-element topic="Social-Logins.md"/>
     </toc-element>
+    <toc-element topic="contributing.md"/>
+    <toc-element topic="changelog.md"/>
 </instance-profile>
